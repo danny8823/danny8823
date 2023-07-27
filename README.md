@@ -5,6 +5,7 @@
 <p align="left">
   <a href='https://github.com/danny8823'>Github</a>
   <a href='https://www.linkedin.com/in/danny-yoo/'>LinkedIn</a>
+  <a href='mailto:dannyyoo@gmail.com'>dannyyoo714@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
