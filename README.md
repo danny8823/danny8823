@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">A passionate software engineer, residing in Orange County, California</h3>
-
-<p>I am a fullstack develper with a passion for frontend.</p>
+<h3 align="center">A fullstack software engineer with a passion for React</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
