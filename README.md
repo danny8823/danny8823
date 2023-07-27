@@ -1,11 +1,11 @@
 <h1 align="center">console.log('Hello') I'm Danny</h1>
-<h3 align="center">A fullstack software engineer with a passion for React</h3>
+<h3 align="center">A fullstack software engineer with a passion for React. I love all things coding. I love creating applications to make people's lives easier and more efficient. When I'm not learning or coding you can find at the gym!🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️ </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href='https://github.com/danny8823'>Github</a>
   <a href='https://www.linkedin.com/in/danny-yoo/'>LinkedIn</a>
-  <a href='mailto:dannyyoo@gmail.com'>dannyyoo714@gmail.com</a>
+  <a href='mailto:dannyyoo@gmail.com'>Email</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
