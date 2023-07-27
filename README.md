@@ -1,4 +1,4 @@
-<h1 align="center">I'm Danny</h1>
+<h1 align="center">Hello I'm Danny</h1>
 <h3 align="center">A fullstack software engineer with a passion for React. I love all things coding. I love creating applications to make people's lives easier and more efficient. When I'm not learning or coding you can find at the gym!🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️🏋🏻‍♂️ </h3>
 
 <h3 align="left">Connect with me:</h3>
