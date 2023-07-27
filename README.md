@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danny</h1>
+<h1 align="center">console.log('Hello') I'm Danny</h1>
 <h3 align="center">A fullstack software engineer with a passion for React</h3>
 
 <h3 align="left">Connect with me:</h3>
