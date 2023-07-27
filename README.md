@@ -5,6 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href='https://github.com/danny8823'>Github</a>
+  <a href='https://www.linkedin.com/in/danny-yoo/'>LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
